@@ -4,3 +4,7 @@ void main()
 {
   printf("hello world")
 }
+void swap{
+
+int i ;
+}
