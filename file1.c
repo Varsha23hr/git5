@@ -8,3 +8,8 @@ void swap{
 
 int i ;
 }
+void run()
+{
+  try{
+  }catch(){
+  }
